@@ -67,8 +67,9 @@ lab-operations-dashboard/
 │   ├── dashboard1.png
 │   ├── dashboard2.png
 │   └── dashboard3.png   # Dashboard UI preview screenshot
+```
 
-⚙️ Installation & Local Setup
+## # ⚙️ Installation & Local Setup
 To run this dashboard locally on your machine:
 
 Clone the repository:
