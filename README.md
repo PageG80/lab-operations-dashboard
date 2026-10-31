@@ -9,7 +9,7 @@ A proactive operational intelligence platform designed for Laboratory Managers a
 ![Laboratory Analytics](screenshots/dashboard2.png)
 ![Laboratory Rejections](screenshots/dashboard3.png)
 
-> **Live Interactive Demo:** *[Insert Streamlit Cloud Link Here]*
+> **Live Interactive Demo:** [Launch Dashboard](https://lab-operations-dashboard-8.streamlit.app/)
 
 ---
 
